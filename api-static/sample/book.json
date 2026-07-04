@@ -1,5 +1,10 @@
 [
   {
+    "title": "you only live once โฮสเทลไม่ใช่สถานที่ แต่คือผู้คน",
+    "finishedDate": "2026-07-04",
+    "imgPath": "/assets/books/you-only-live-once-โฮสเทลไมใชสถานท-แตคอผคน.webp"
+  },
+  {
     "title": "PROJECT HAIL MARY",
     "finishedDate": "2026-06-09",
     "imgPath": "/assets/books/2026-04-18-project-hail-mary.webp"
@@ -43,10 +48,5 @@
     "title": "สถาปัตยกรรมคณะเรี่ยราด",
     "finishedDate": "2024-09-07",
     "imgPath": "/assets/books/2024-09-07-สถาปตยกรรมคณะเรยราด.webp"
-  },
-  {
-    "title": "ขอให้ได้พบเจอสถานที่ที่เรียกว่าบ้าน",
-    "finishedDate": "2024-07-13",
-    "imgPath": "/assets/books/2024-07-13-ขอใหไดพบเจอสถานททเรยกวาบาน.webp"
   }
 ]
